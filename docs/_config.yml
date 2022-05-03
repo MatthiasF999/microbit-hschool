@@ -1,2 +1,6 @@
-  makecode:
-    home_url: https://makecode.microbit.org/
+makecode:
+  target: microbit
+  platform: microbit
+  home_url: https://makecode.microbit.org/
+include:
+  - README.md

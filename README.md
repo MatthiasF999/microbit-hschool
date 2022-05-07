@@ -1,6 +1,7 @@
 # Rando 
 
-Generate a random coordinate and display it on the LED screen. ||input:on shake|| test.
+Generate a random coordinate and display it on the LED screen. ``||input:on shake||``
+ test.
 
 ```blocks
 basic.forever(() => {
